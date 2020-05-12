@@ -3,12 +3,30 @@
     "id": 1,
     "price": "$556.00",
     "offer": "$30",
-    "title": "BO&Play Wireless Speaker"
+    "title": "BO&Play Wireless Speaker",
+    "claimed": "50% Claimed",
+    "progress": "60",
+    "endTime": "Ends in 03h 49m 33s",
+    "delivery": "Monday"
   },
   {
-    "id": 1,
+    "id": 2,
     "price": "$726.00",
     "offer": "$60",
-    "title": "BO&Play Wireless 22 start"
+    "title": "BO&Play  2 start",
+    "claimed": "40% Claimed",
+    "progress": "40",
+    "endTime": "Ends in 07h 30m 22s",
+    "delivery": "Tuesday"
+  },
+  {
+    "id": 3,
+    "price": "$999.00",
+    "offer": "$44",
+    "title": "TV HD 5 Start",
+    "claimed": "25% Claimed",
+    "progress": "90",
+    "endTime": "Ends in 05h 20m 02s",
+    "delivery": "Friday"
   }
 ]
